@@ -24,11 +24,3 @@ A sablon aktiválása a következő lépésekkel végezhető el:
 ## Követelmények
 
 - WordPress 6.6.1 vagy újabb verzió.
-
-## Szerző
-
-A sablont Bakos Attila készítette.
-
-## Licenc
-
-Ez a sablon nincs licenc alatt.
