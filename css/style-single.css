@@ -1,0 +1,9 @@
+/* SINGLE (single.php) */
+
+.single {
+    box-sizing: border-box;
+}
+
+.single p:first-child {
+    text-align: justify;
+}
