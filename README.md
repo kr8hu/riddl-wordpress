@@ -24,3 +24,9 @@ A sablon aktiválása a következő lépésekkel végezhető el:
 ## Követelmények
 
 - WordPress 6.6.1 vagy újabb verzió.
+
+## Képernyőképek
+<div style="display: block; box-sizing: border-box;">
+<img src="./screenshot.png" width="100%" height="auto" style="margin-right: 5px;">
+</div>
+
